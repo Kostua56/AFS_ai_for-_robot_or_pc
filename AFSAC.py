@@ -60,9 +60,9 @@ COMPLIMENT_WORDS = [
 ]
 
 # === НАСТРОЙКИ ===
-PIPER_PATH = "/home/kostik/piper/piper"
-VOICE_MODEL = "/home/kostik/piper/voices/en_US/amy/medium/en_US-amy-medium.onnx"
-VOICE_CONFIG = "/home/kostik/piper/voices/en_US/amy/medium/en_US-amy-medium.onnx.json"
+PIPER_PATH = "/home/user/piper/piper"
+VOICE_MODEL = "/home/user/piper/voices/en_US/amy/medium/en_US-amy-medium.onnx"
+VOICE_CONFIG = "/home/user/piper/voices/en_US/amy/medium/en_US-amy-medium.onnx.json"
 OLLAMA_HOST = "http://localhost:11434"
 OLLAMA_MODEL = "gemma3:27b-cloud"
 VOSK_MODEL_PATH = "/home/kostik/vosk-en/vosk-model-small-en-us-0.15"
